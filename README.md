@@ -1,0 +1,2 @@
+# -PYTHON
+String variables
